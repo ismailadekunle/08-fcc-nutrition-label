@@ -1,6 +1,6 @@
 # Project Name
 
-> One paragraph statement about the project.
+> A nutrition label webpage built using Typograghy and CSS.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,20 +8,34 @@ Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5 form elements
+  - `h1`, `div`, `span`, `p`.
+- CSS properties
+  - CSS Background for page aesthetic using
+    `background-color`.
+  - CSS Typography properties
+    `letter-spacing`, `font-size`, `font-style`, `font-family`, `text-align`, etc
+  - CSS Box Model properties
+    `border-bottom`,`padding`, `margin`, `width`, `box-sizing`, `border-bottom`, etc
+  - CSS Displaying properties
+    `display`,
+  - CSS Flexbox properties
+    `flex-flow`, `align-items`, `justify-content`.
+- Linters
+  - [Prettier](https://prettier.io/),
+  - [Stylelint](https://stylelint.io/).
+- GitHub Action
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fcc-nutrition-label-ismail.netlify.app/)
 
 ### Development (Running locally)
 
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone git@github.com:ismailadekunle/08-fcc-nutrition-label.git
 
 ```
 
@@ -63,16 +77,18 @@ yarn hint
 
 ## Style Guides
 
+## Style Guides
+
 - [CSS Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 - [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html)
-- [JavaScript Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html)
 - [Git Style Guide](https://udacity.github.io/git-styleguide/)
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [@ismailadekunle](https://github.com/ismailadekunle)
+- Twitter: [@ismailadekunle](https://twitter.com/ismailadekunle)
+- Linkedin: [@ismailAdekunleJIMOH](https://www.linkedin.com/in/ismailAdekunleJIMOH/)
+- Freecodecamp: [@ismailadekunle](https://www.freecodecamp.org/ismailadekunle)
 
 ## 🤝 Contributing
 
@@ -86,9 +102,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- Freecodecamp: (https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-typography-by-building-a-nutrition-label)
 
 ## 📝 License
 
